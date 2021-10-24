@@ -1,0 +1,17 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "files.autoSave": "afterDelay",
+  "explorer.sortOrder": "type",
+  "editor.cursorStyle": "line-thin",
+  "editor.cursorBlinking": "smooth",
+  "files.trimFinalNewlines": true
+}
