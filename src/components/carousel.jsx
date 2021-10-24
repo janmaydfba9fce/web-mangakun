@@ -45,6 +45,7 @@ export const Carousel = ({ data }) => {
                       style={{
                         fontSize: "11px",
                         overflow: "hidden",
+                        whiteSpace: "pre-wrap",
                         textOverflow: "ellipsis",
                         height: "120px",
                       }}
